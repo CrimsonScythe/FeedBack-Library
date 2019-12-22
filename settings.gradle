@@ -1,2 +1,2 @@
-include ':app', ':feedback'
+include ':app', ':feedback', ':feedbackauth'
 rootProject.name='FeedBackExample'
